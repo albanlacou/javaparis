@@ -27,9 +27,9 @@ Create: https://xxxxx.com/products/ en POST avec les données dans le body
 
 Read By ID: https://xxxxx.com/products/4 en GET
 
-Read all: Create: https://xxxxx.com/products/ en GET*
+Read all: Create: https://xxxxx.com/products/ en GET
 
-Update: Create: https://xxxxx.com/products/7 en PUT avec les données dans le body*
+Update: Create: https://xxxxx.com/products/7 en PUT avec les données dans le body
 
 Delete: https://xxxxx.com/products/4 en DELETE
 
