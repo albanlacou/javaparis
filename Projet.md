@@ -22,10 +22,15 @@ TABLE PRODUCTS (id (pm, ai), type, rating, name, createdAt, categoryId )
 
 Vous dévez impléter pour chaque élément un controller avec les fonctionnalitées CRUD (create, read by id, read all, update, delete).
 Vos requetes devront être protégées contre l'injection SQL, utiliser les paramètres de requete.
+
 Create: https://xxxxx.com/products/ en POST avec les données dans le body
+
 Read By ID: https://xxxxx.com/products/4 en GET
-Read all: Create: https://xxxxx.com/products/ en GET
-Update: Create: https://xxxxx.com/products/7 en PUT avec les données dans le body
+
+Read all: Create: https://xxxxx.com/products/ en GET*
+
+Update: Create: https://xxxxx.com/products/7 en PUT avec les données dans le body*
+
 Delete: https://xxxxx.com/products/4 en DELETE
 
 ## Pagination
